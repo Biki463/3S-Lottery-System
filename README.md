@@ -1,2 +1,2 @@
-# 3S-Lottery-System
- A 3S lottery system website offers a user-friendly platform for purchasing tickets, checking draw results, and managing accounts. With secure transactions and fair draws, users can participate conveniently via mobile devices, receiving notifications for results. The site promotes responsible gaming and provides customer support
+# resturently-website
+It consist all the information of the hotel TEN 11 which is located at the Birjung. through this website you can order the food with in the city as well as you can reserve your table in any special celebration. 
